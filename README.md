@@ -1,10 +1,14 @@
 # Hendrik Cromboom
 
+#### Inspirational quote
+---
 *"wubba lubba dub dub - Rick C-137"*
 
 ![alt text](https://github.com/HendrikCromboom/markdown-challenge/hc.jpg "My Picture")
 
-#### I am an energetic and eager person.
+#### Me in one sentence
+---
+I am an energetic and eager person.
 
 ---
 
@@ -17,6 +21,7 @@
 ---
 
 #### Hobbies
+---
 
 - Gaming
 - Reading
@@ -25,10 +30,22 @@
 .... - Hiking
 .... - Climbing
 
-#### You can always count on me when you require help on a coding issue, even if I have to explain it again from the start.
+---
 
-#### I actually "read" a book on "visual basic" before I could even read. At that time my dad was transitioning from electrics into development and the book was lying around, so me being a 6 year old snot was looking at the pictures like I could make any sense out of it.
+#### You can always count on me when...
+ ...you require help on a coding issue, even if I have to explain it again from the start.
 
-###### TL;DR: 6 year old me knew my interests better than 28 year old me did a year ago...
+---
+
+#### Short story about myself
+---
+`I actually "read" a book on "visual basic" before I could even read. At that time my dad was transitioning from electrics into development and the book was lying around, so me being a 6 year old snot was looking at the pictures like I could make any sense out of it.`
+
+
+###### TL;DR:
+---
+###### 6 year old me knew my interests better than 28 year old me did a year ago...
+
+---
 
 [<<previous]() ||  Hendrik Cromboom || [next >>](https://github.com/JoeVN17/markdown-challenge)
