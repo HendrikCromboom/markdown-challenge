@@ -14,8 +14,7 @@ I am an energetic and eager person.
 
 ---
 
-| Birthday            | 17/06       |
-| --------------------|:-----------------------:|
+| Birthday            | 17/06                   |
 | Favorite color      | Light blue              |
 | Favorite food       | Pasta                   |
 | Pinneapple on pizza | no, but pineapple: sure |
@@ -27,9 +26,9 @@ I am an energetic and eager person.
 - Gaming
 - Reading
 - Sports
-.... - Fitness
-.... - Hiking
-.... - Climbing
+&ensp; * Fitness
+&ensp; * Hiking
+&ensp; * Climbing
 
 ---
 
