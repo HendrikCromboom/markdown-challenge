@@ -19,8 +19,8 @@ Trivia   |   Answer
 Birthday   |   17/06  
 Favorite color   |   Light blue   
 Favorite food   |   Pasta   
-Pinneapple on pizza   |   [x] No   
-Pineapple on pizza   |    [x] Yes   
+Pinneapple on pizza   |   &#9745; No   
+Pineapple on pizza   |    &#9745; Yes   
 
 *See what I did there?*
 
