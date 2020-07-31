@@ -4,7 +4,7 @@
 
 *"wubba lubba dub dub - Rick C-137"*
 
-![alt text](https://github.com/HendrikCromboom/markdown-challenge/hc.jpg "My Picture")
+![alt text](https://github.com/HendrikCromboom/markdown-challenge/raw/src/img/hc.jpg "My Picture")
 
 ---
 
