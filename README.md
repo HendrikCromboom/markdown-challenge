@@ -17,7 +17,8 @@ I am an energetic and eager person.
 | Birthday            | 17/06                   |
 | Favorite color      | Light blue              |
 | Favorite food       | Pasta                   |
-| Pinneapple on pizza | no, but pineapple: sure |
+| Pinneapple on pizza | - [x] No                |
+| Pineapple on pizza  | - [x] Yes               |
 
 ---
 
@@ -48,4 +49,4 @@ I am an energetic and eager person.
 
 ---
 
-[<<previous]() ||  Hendrik Cromboom || [next >>](https://github.com/JoeVN17/markdown-challenge)
+[<<previous](https://github.com/Fib88/markdown-challenge) ||  Hendrik Cromboom || [next >>](https://github.com/JoeVN17/markdown-challenge)
