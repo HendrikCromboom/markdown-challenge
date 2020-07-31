@@ -26,9 +26,9 @@ I am an energetic and eager person.
 - Gaming
 - Reading
 - Sports
-&ensp; * Fitness
-&ensp; * Hiking
-&ensp; * Climbing
+    * Fitness
+    * Hiking
+    * Climbing
 
 ---
 
