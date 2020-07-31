@@ -16,9 +16,8 @@ I am an energetic and eager person.
 
 #### Trivia
 
-
+--------   |   ------   
 Birthday   |   17/06  
---------   |   ------ 
 Favorite color   |   Light blue   
 Favorite food   |   Pasta   
 Pinneapple on pizza   |   [x] No   
